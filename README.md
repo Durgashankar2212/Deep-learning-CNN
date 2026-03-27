@@ -3,8 +3,8 @@
 This project explains Convolutional Neural Networks (CNNs) focusing on feature extraction using filters, stride, and pooling.
 
 ## Files
-- cnn_tutorial.pdf → Full explanation
-- cnn_model.ipynb → Implementation
+- 24082212.pdf→ Full explanation
+- 24082212.ipynb → Implementation
 
 ## Dataset
 MNIST handwritten digits dataset
